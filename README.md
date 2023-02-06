@@ -1,6 +1,6 @@
 # Rick and Morty iOS Application
 
-This app provides information about characters of an animated movie "Rick and Morty". All the information is obtained from [Rick and Morty API](https://rickandmortyapi.com/).
+This app provides information about characters of an animated movie "Rick and Morty" and stores user's likes. All the information is obtained from [Rick and Morty API](https://rickandmortyapi.com/).
 
 ## Screenshots
 
